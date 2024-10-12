@@ -16,12 +16,12 @@ server và client
 
 3. chạy server  bằng lệnh: python server.py
 
-4. Check địa chỉ IP trên máy tính dùng để run code Server, sửa địa chỉ này bên trong code Kotlin
+4. Check địa chỉ IP trên máy tính dùng để run code Server, sửa địa chỉ này bên trong code android
 
-5. Sửa đường dẫn bên trong 2 file Server và Kotlin vì đường dẫn 2 bên khác nhau
+5. Sửa đường dẫn bên trong 2 file Server vì đường dẫn trên linux khác
    
-   Lấy tạm 2 file mp3 để test và sẽ lưu trong folder /storage/emulated/0/Music trên android
+   lưu file Alone.mp3 vào trong folder /storage/emulated/0/Music trên android
    
-   Trong code Kotlin đã sửa file: AndroidManifest.xml, network_security_config.xml, build.gradle.kts 
+   Trong code Kotlin đã sửa những file sau: AndroidManifest.xml, network_security_config.xml, build.gradle.kts 
    
    
