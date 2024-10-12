@@ -18,9 +18,9 @@ server và client
 
 4. Check địa chỉ IP trên máy tính dùng để run code Server, sửa địa chỉ này bên trong code android
 
-5. Sửa đường dẫn bên trong 2 file Server vì đường dẫn trên linux khác
+5. Sửa đường dẫn bên trong file Server vì đường dẫn trên linux khác
    
-   lưu file Alone.mp3 vào trong folder /storage/emulated/0/Music trên android
+   lưu lại file Alone.mp3 vào trong folder /storage/emulated/0/Music trên android
    
    Trong code Kotlin đã sửa những file sau: AndroidManifest.xml, network_security_config.xml, build.gradle.kts 
    
